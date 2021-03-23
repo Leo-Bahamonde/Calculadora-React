@@ -1,3 +1,3 @@
 # Calculadora-React
 
-CAlculadora con React.js
+Calculadora ejercicio de Udemy con React.js
